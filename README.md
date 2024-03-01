@@ -41,7 +41,7 @@ This project uses React to create a Portolio application, which is then deployed
 
   In addition, the following resources were used in the creation of this project:
 
-  -  Activity 24 for this module and the Xpert Learning Assistant were utilized/
+  -  Activity 24 for this module was used as an example, and the Xpert Learning Assistant were utilized to assist with this project.
 
 ## License
  None
